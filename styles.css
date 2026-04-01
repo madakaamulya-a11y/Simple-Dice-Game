@@ -18,7 +18,7 @@ h1 {
 .dice {
   display: inline-block;
   text-align: center;
-  margin-top: 40px;
+  margin:40px;
 }
 p {
   color: #f8de22;
